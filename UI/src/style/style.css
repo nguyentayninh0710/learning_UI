@@ -1,7 +1,6 @@
 .custom-navbar{
-    background-color: rgb(174, 142, 247) !important;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
-.login-button{
-    margin-left: 15% !important;
-}
+
